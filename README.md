@@ -1,6 +1,7 @@
 # hello-world
-Just another repository
 
-First repository 입니다.
+----- profile -----
+이름 : 백현욱
+생년월일 : 1995.08.15
+나이 : 27세
 
-자기소개 : 나는 백현욱입니다. 
